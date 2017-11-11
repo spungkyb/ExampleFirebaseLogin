@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172859298600",
+    "firebase_url": "https://spungkyb-firebase-login-f368e.firebaseio.com",
+    "project_id": "spungkyb-firebase-login-f368e",
+    "storage_bucket": "spungkyb-firebase-login-f368e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172859298600:android:36efa42af2ce1f80",
+        "android_client_info": {
+          "package_name": "com.spungkyb.examplefirebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172859298600-u79df66p4l1pl7ml1ckf5is551cmcc6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlBrrpjmK-vZ5ggsT81x07b_Z-QNpNJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
